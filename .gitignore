@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 
+
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -36,3 +37,18 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+all_places_a.txt
+all_places_b.txt
+complex.txt
+constraints.txt
+five_places.txt
+places.txt
+simple.txt
+ten_places.txt
+optimal_for_all_a.txt
+optimal_for_all_b.txt
+optimal_for_complex.txt
+optimal_for_simple.txt
+optimal_for_ten.txt
+optimalpaths.txt
